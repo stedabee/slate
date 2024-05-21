@@ -2,7 +2,4 @@
 
 some big test
 
-:::hint{type="info"}
-1234
-:::
-
+aaaa 222 3333
