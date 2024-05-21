@@ -1,8 +1,6 @@
 # Introduction
 
-some big test
-
-# heading 1
-
-1111
+:::hint{type="info"}
+# solo
+:::
 
