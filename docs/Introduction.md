@@ -1,6 +1,4 @@
 # Introduction
 
-:::hint{type="info"}
-# solo
-:::
+# heading 123 555 666
 
